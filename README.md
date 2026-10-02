@@ -1,4 +1,4 @@
-# Google Cybersecurity Certificate - Write-ups and Portfolio
+# Google Cybersecurity Certificate - Portfolio
 ![Status](https://img.shields.io/badge/Status-InProgress-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Coursera-blue)
 ![Provider](https://img.shields.io/badge/Provider-Google-red)
@@ -6,7 +6,7 @@
 
 ## About
 
-Welcome to my cybersecurity portfolio!
+Welcome to my cybersecurity portfolio !
 
 This repository documents my journey through the Google Cybersecurity Professional Certificate and my development toward a career in cybersecurity.
 
